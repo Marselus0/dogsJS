@@ -1,0 +1,12 @@
+.pets__title {
+    height: 90px;
+    font-family: Georgia;
+    font-size: 35px;
+    font-weight: 400;
+    text-align: center;
+    color: #545454;
+    width: 400px;
+    margin: 0 auto;
+    margin-bottom: 60px;
+    padding-top: 80px;
+}

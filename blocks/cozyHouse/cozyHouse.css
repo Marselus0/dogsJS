@@ -1,0 +1,14 @@
+.cozyHouse {
+  background: #F6F6F6;
+  max-width: 1280px;
+  height: 728px;
+  top: 180px;
+  left: 40px;
+}
+
+
+@media screen and (max-width: 900px) {
+  .cozyHouse {
+    padding-top: 30px;
+  }
+}

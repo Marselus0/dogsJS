@@ -1,0 +1,18 @@
+.donation {
+    height: 462px;
+    padding: 80px 182px 100px 183px;
+    display: flex;
+    margin: 0 auto;
+    gap: 30px;
+    background: #F6F6F6;
+}
+
+.donation__title,
+.donation,
+.donation__subtitle,
+.donation__info {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}

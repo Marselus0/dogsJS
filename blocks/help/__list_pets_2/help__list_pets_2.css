@@ -1,0 +1,5 @@
+.help__list_pets_2 {
+    display: flex;
+    justify-content: center;
+    gap: 120px;
+}

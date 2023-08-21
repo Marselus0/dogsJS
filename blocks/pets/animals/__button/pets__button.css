@@ -1,0 +1,7 @@
+.pets__button {
+    padding: 15px 45px 15px 45px;
+    border-radius: 100px;
+    border: 2px solid;
+    gap: 10px;
+    border-color: #F1CDB3;
+}

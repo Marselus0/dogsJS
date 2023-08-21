@@ -1,0 +1,16 @@
+.content__subheading {
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    width: 460px;
+}
+
+@media screen and (max-width: 900px) {
+    .content__subheading {
+        font-size: 13px;
+        max-width: 260px;
+    }
+}

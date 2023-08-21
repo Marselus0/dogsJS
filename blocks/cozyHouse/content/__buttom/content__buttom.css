@@ -1,0 +1,13 @@
+.content__buttom {
+    margin-top: 42px;
+    padding: 15px 45px 15px 45px;
+    border-radius: 100px;
+    background: rgba(241, 205, 179, 1);
+    color: #292929;
+    font-size: 17px;
+}
+
+.button__link {
+    text-decoration: none;
+    color: #292929;
+}

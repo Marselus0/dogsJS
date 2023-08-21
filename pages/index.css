@@ -1,0 +1,65 @@
+@import url('../blocks/header/header.css');
+@import url('../blocks/header/header__menu/header__menu.css');
+@import url('../blocks/header/__title/header__title.css');
+@import url('../blocks/header/__subtitle/header__subtitle.css');
+@import url('../blocks/header/__logo/header__logo.css');
+
+@import url('../css/makeFriends.css');
+
+@import url('../blocks/body/body.css');
+@import url('../blocks/color/color.css');
+@import url('../css/normalaizes.css');
+
+@import url('../blocks/cozyHouse/cozyHouse.css');
+@import url('../blocks/cozyHouse/contents/contents.css');
+@import url('../blocks/cozyHouse/content/content.css');
+@import url('../blocks/cozyHouse/content/__heading/content__heading.css');
+@import url('../blocks/cozyHouse/content/__subheading/content__subheading.css');
+@import url('../blocks/cozyHouse/content/__buttom/content__buttom.css');
+@import url('../blocks/cozyHouse/content/__dog/content__dog.css');
+
+@import url('../blocks/cozyHouse/about/about.css');
+@import url('../blocks/cozyHouse/about/__heading/about__heading.css');
+@import url('../blocks/cozyHouse/about/__dogs/about__dogs.css');
+@import url('../blocks/cozyHouse/about/__paragraph/about__paragraph.css');
+@import url('../blocks/cozyHouse/about/__text/about__text.css');
+
+@import url('../blocks/pets/pets.css');
+@import url('../blocks/pets/__title/pets__title.css');
+
+@import url('../blocks/pets/__title/pets__title.css');
+@import url('../blocks/pets/pets.css');
+@import url('../blocks/pets/animals/__button/pets__button.css');
+@import url('../blocks/pets/animals/__image/pets__image.css');
+@import url('../blocks/pets/animals/__katrine/pets__katrine.css');
+@import url('../blocks/pets/animals/__name/pets__name.css');
+@import url('../blocks/pets/animals/__woody/pets__woody.css');
+@import url('../blocks/pets/animals/__jennifer/pets__jennifer.css');
+@import url('../blocks/pets/animals/animals.css');
+@import url('../blocks/pets/otherPets/otherPets.css');
+
+@import url('../blocks/help/help.css');
+@import url('../blocks/help/heading/help__heading.css');
+@import url('../blocks/help/__content/help__content.css');
+@import url('../blocks/help/__list/help__list.css');
+@import url('../blocks/help/__list_pets/help__list_pets.css');
+@import url('../blocks/help/__list_pets_2/help__list_pets_2.css');
+
+@import url('../blocks/donation/donation.css');
+@import url('../blocks/donation/__title/donation__title.css');
+@import url('../blocks/donation/__subtitle/donation__subtitle.css');
+@import url('../blocks/donation/__form/donation__form.css');
+@import url('../blocks/donation/__image/donation__image.css');
+@import url('../blocks/donation/__info/donation__info.css');
+@import url('../blocks/donation/__credit/donation__credit.css');
+@import url('../blocks/donation/__telephone/donation__telephone.css');
+
+@import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__content/footer__content.css');
+@import url('../blocks/footer/__email/footer__email.css');
+@import url('../blocks/footer/__location/footer__location.css');
+@import url('../blocks/footer/__map/footer__map.css');
+@import url('../blocks/footer/__svg/footer__svg.css');
+@import url('../blocks/footer/__telephone/footer__telephone.css');
+@import url('../blocks/footer/__title/footer__title.css');
+@import url('../blocks/footer/__blockMap/footer__blockMap.css');

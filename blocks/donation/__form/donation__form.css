@@ -1,0 +1,10 @@
+.donation__form {
+    width: 349px;
+    height: 43px;
+    padding: 10px 15px 10px 15px;
+    border-radius: 9px;
+    gap: 10px;
+    background: #F1CDB3;
+    display: flex;
+    margin: 20px 0;
+}
