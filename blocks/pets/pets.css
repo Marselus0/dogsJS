@@ -2,3 +2,9 @@
     height: 877px;
     background: #F6F6F6;
 }
+
+@media screen and (max-width: 900px) {
+    .pets {
+      height: 1600px;
+    }
+  }

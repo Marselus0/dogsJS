@@ -1,3 +1,9 @@
 .pets__woody {
     text-align: center;
 }
+
+@media screen and (max-width: 900px) {
+    .pets__woody {
+        margin-top: 20px;
+    }
+  }

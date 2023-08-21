@@ -4,3 +4,10 @@
     margin: 0 auto;
     color: #545454;
 }
+
+
+@media screen and (max-width: 900px) {
+    .about__text {
+      width: 250px;
+    }
+  }

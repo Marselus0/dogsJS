@@ -3,3 +3,9 @@
     height: 113px;
     text-align: center;
 }
+
+@media screen and (max-width: 900px) {
+    .help__list {
+        margin-bottom: 40px;
+    }
+}

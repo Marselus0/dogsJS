@@ -8,5 +8,13 @@
     width: 400px;
     margin: 0 auto;
     margin-bottom: 60px;
-    padding-top: 80px;
+    padding-top: 40px;
+}
+
+@media screen and (max-width: 900px) {
+    .pets__title {
+        padding-bottom: 150px;
+        width: 300px;
+        margin: 0;
+    }
 }

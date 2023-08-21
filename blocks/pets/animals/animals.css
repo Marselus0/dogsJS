@@ -3,3 +3,10 @@
     justify-content: center;
     gap: 90px;
 }
+
+@media screen and (max-width: 900px) {
+    .animals {
+        width: 250px;
+        display: block;
+    }
+}

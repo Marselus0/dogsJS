@@ -3,3 +3,9 @@
     justify-content: center;
     gap: 120px;
 }
+
+@media screen and (max-width: 900px) {
+    .help__list_pets_2 {
+        display: block;
+    }
+}

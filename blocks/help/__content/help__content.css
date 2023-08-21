@@ -3,3 +3,10 @@
     height: 281px;
     margin: 0 auto;
 }
+
+@media screen and (max-width: 900px) {
+    .help__content {
+        width: 300px;
+        display: flex;
+    }
+}
