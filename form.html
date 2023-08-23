@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./pages/index.css">
+    <link rel="stylesheet" href="./css/form.css">
 </head>
 
 
@@ -24,10 +25,10 @@
                     <p class='header__subtitle'>Shelter for pets in Boston</p>
                 </div>
                 <ul class="menu" id="menu">
-                    <li><a href="#">About the shelter</a></li>
-                    <li><a href="#">Our pets</a></li>
+                    <li><a href="./index.html">About the shelter</a></li>
+                    <li><a href="./makeFriends.html">Our pets</a></li>
                     <li><a href="#">Help the shelter</a></li>
-                    <li><a href="#">Contacts</a></li>
+                    <li><a href="./form.html">Contacts</a></li>
                 </ul>
             </div>
         </div>
@@ -37,7 +38,34 @@
 
     <header class=''>
     </header>
-    <main class='main'>
+    <main class='main__form'>
+        <div class="container">
+            <div class="content">
+                <div class="form__wrap">
+                    <div class="form__title">Свяжитесь с нами</div>
+                    <form action="php/order.php" class="form form-order" method="POST">
+                        <div class="form__list">
+                            <fieldset class="form__item">
+                                <input type="text" name="username" placeholder="Введите имя" required minlength="2" maxlength="32" class="form__inp">
+                            </fieldset>
+                            <fieldset class="form__item">
+                                <input type="email" name="usermail" placeholder="Введите email" required class="form__inp">
+                            </fieldset>
+                            <fieldset class="form__item">
+                                <input type="tel" name="userphone" placeholder="Введите телефон" required pattern="^\+7[0-9]{10}$" class="form__inp">
+                            </fieldset>
+                            <fieldset class="form__item">
+                                <input type="text" name="usertelegram" placeholder="Введите телеграмм" required class="form__inp">
+                            </fieldset>
+                            <fieldset class="form__item">
+                                <button class="form__btn">отправить</button>
+                            </fieldset>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
     </main>
 </body>
 

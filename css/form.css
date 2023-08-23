@@ -1,0 +1,51 @@
+.main__form {
+    margin-top: 150px;
+}
+
+.content {
+    color: rgb(140, 116, 36);
+    font-size: 20px;
+}
+
+.form__title {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.form__wrap {}
+
+.form__list {
+    display: flex;
+    flex-direction: column;
+}
+
+.form__item {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.form__btn {
+    background-color: bisque;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+}
+
+.form {
+    max-width: 500px;
+}
+
+.form__inp {
+    width: 100%;
+    border: 1px solid rgb(11, 50, 8);
+    transition: 0.5s;
+    padding: 10px;
+    display: block;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.form__inp:hover {
+    border: 1px solid greenyellow;
+}
