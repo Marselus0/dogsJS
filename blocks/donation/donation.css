@@ -1,10 +1,10 @@
 .donation {
-    height: 462px;
     padding: 80px 182px 100px 183px;
-    display: flex;
     margin: 0 auto;
     gap: 30px;
     background: #F6F6F6;
+    display: flex;
+    align-items: center;
 }
 
 .donation__title,
