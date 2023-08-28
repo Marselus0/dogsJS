@@ -11,9 +11,6 @@
     font-size: 35px;
     margin-bottom: 10px;
 }
-
-.form__wrap {}
-
 .form__list {
     display: flex;
     flex-direction: column;
